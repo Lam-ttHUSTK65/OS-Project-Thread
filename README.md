@@ -2,7 +2,7 @@
 Web server đa luồng với cơ chế thread pool
 
 ## How to run 
-```Makefile
+```C
 // Run the makefile
 make 
 // Compile client.c 
